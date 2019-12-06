@@ -1,0 +1,31 @@
+[{
+		"nama": "Rizal",
+		"umur": 18,
+		"nrp": "183040081",
+		"lulus": "2021",
+		"hobby": [
+			"Ngoding",
+			"Gamming"
+		],
+		"pembimbing": {
+			"pembimbing1": "Pa Handoko",
+			"pembimbing2": "Unknown"
+		}
+	},
+
+	{
+		"nama": "Nugraha",
+		"umur": 18,
+		"nrp": "183040081",
+		"lulus": "2021",
+		"hobby": [
+			"Gamming",
+			"Ngoding"
+		],
+		"pembimbing": {
+			"pembimbing1": "Pa Handoko",
+			"pembimbing2": "Unknown"
+		}
+
+	}
+]
